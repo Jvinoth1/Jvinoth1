@@ -1,3 +1,18 @@
+## Hi there 👋 it's me Vinoth
+
+Bachelor of Computer Applications
+<img
+-👀 Here's my [portfolio](https://vinothjportfolio.netlify.app/)
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Jvinoth1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
