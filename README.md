@@ -1,8 +1,12 @@
 ## Hi there 👋 it's me Vinoth
 
 Bachelor of Computer Applications
-<img
+<br />
 -👀 Here's my [portfolio](https://vinothjportfolio.netlify.app/)
+- 🌱 I’m currently learning backend-development
+- How to reach me:
+- <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_its_me_vinoth__/?utm_source=ig_web_button_share_sheet)
+
 
 
 
@@ -15,7 +19,7 @@ Bachelor of Computer Applications
 
 - 👋 Hi, I’m @Jvinoth1
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
