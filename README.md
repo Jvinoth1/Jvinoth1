@@ -13,7 +13,7 @@ Bachelor of Computer Applications
   <br />
   <br />
  ## Skills
- <img width="50" height="50" src="https://img.icons8.com/color/50/html-5.png" alt="html-5"/>
+ <img width="50" height="50" src="https://img.icons8.com/color/50/html-5.png" alt="html-5"/>  <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>  <img width="50" height="50" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/50/tailwind_css.png" alt="tailwind_css"/>  <img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/>  <img width="50" height="50" src="https://img.icons8.com/color-glass/50/github.png" alt="github"/>  
   
  
 
