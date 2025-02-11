@@ -1,6 +1,6 @@
 ## Hi there 👋 it's me Vinoth
 
-Bachelor of Computer Applications
+Bachelor of Computer Applications Student
 <br />
 
 - 👀 Here's my [portfolio](https://vinothjportfolio.netlify.app/)
